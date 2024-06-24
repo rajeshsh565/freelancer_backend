@@ -1,0 +1,3 @@
+export const all_tags = [
+    "web design", "e-commerce", "UI/UX", "content writing", "SEO", "travel", "3d modeling", "product design", "mobile app development", "fitness", "health", "social media marketing", "restaurant", "marketing", "editing", "proofreading", "academic writing", "logo design", "branding", "startup", "translation", "Spanish", "website content", "e-learning development", "data analysis", "online course"
+];
